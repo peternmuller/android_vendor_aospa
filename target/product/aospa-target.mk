@@ -47,6 +47,10 @@ $(call inherit-product, vendor/aospa/bootanimation/bootanimation.mk)
 PRODUCT_PACKAGES += \
     GoogleCameraGo
 
+# Charger
+PRODUCT_PACKAGES += \
+    charger_res_images_vendor_pixel
+
 # curl
 PRODUCT_PACKAGES += \
     curl
