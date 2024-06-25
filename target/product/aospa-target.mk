@@ -49,7 +49,7 @@ PRODUCT_PACKAGES += \
 
 # Charger
 PRODUCT_PACKAGES += \
-    charger_res_images_vendor_pixel
+    charger_res_images_product_pixel
 
 # curl
 PRODUCT_PACKAGES += \
