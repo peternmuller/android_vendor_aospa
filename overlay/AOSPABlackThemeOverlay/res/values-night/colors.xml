@@ -54,6 +54,9 @@
     <color name="primary_device_default_dark">#000000</color>
     <color name="primary_device_default_settings">#000000</color>
 
+    <color name="system_background_dark">#000000</color>
+    <color name="system_surface_dark">#000000</color>
+
     <color name="system_surface_bright_dark">#202020</color>
     <color name="system_surface_container_dark">#000000</color>
     <color name="system_surface_container_high_dark">#202020</color>
