@@ -57,9 +57,9 @@
     <color name="system_background_dark">#000000</color>
     <color name="system_surface_dark">#000000</color>
 
-    <color name="system_surface_bright_dark">#212121</color> <!-- Brightest dark -->
-    <color name="system_surface_container_highest_dark">#1B1B1B</color> <!-- Slightly darker -->
-    <color name="system_surface_container_high_dark">#171717</color> <!-- A bit darker -->
+    <color name="system_surface_bright_dark">#171717</color> <!-- Slightly darker -->
+    <color name="system_surface_container_highest_dark">#191919</color> <!-- Brightest dark -->
+    <color name="system_surface_container_high_dark">#171717</color> <!-- Slightly darker -->
     <color name="system_surface_container_dark">#000000</color> <!-- Blacked out as it is used as a background color in system apps -->
     <color name="system_surface_container_low_dark">#0F0F0F</color> <!-- Close to dim -->
     <color name="system_surface_dim_dark">#0C0C0C</color> <!-- Darker still -->
